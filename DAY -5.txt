@@ -1,0 +1,20 @@
+Task- 5
+
+Capture and analyze network traffic using Wireshark
+Tools: Wireshark
+
+1. Installed Wireshark
+
+2. Started capturing packets on active interface WiFi
+
+3. To generate traffic, I have browsed some websites in my web browser Google Chrome
+
+4. After about a minute, I stopped the packet capture using the stop button in wireshark. About 15k packets have been capturen in about a minute.
+
+5. There is a filter option in wireshark which can be used to filter traffic, so I have used that to filter traffic based on various protocols such as DNS, TCP, HTTP etc..,
+
+6. I have identified different protocols in the capture which are: DNS, HTTP, TCP, UDP, TLSv1.2, QUIC, ICMPv6, ARP
+
+7. I have also saved the .pcap file which I will attack in GitHub
+
+8. So by this task, I have understood how to capture and analyze network traffic using Wireshark and also have found the different network protocols used in the my web browser. 
